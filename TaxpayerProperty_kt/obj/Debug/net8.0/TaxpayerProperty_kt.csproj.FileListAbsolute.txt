@@ -1,0 +1,14 @@
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\bin\Debug\net8.0\TaxpayerProperty_kt.exe
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\bin\Debug\net8.0\TaxpayerProperty_kt.deps.json
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\bin\Debug\net8.0\TaxpayerProperty_kt.runtimeconfig.json
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\bin\Debug\net8.0\TaxpayerProperty_kt.dll
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\bin\Debug\net8.0\TaxpayerProperty_kt.pdb
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.AssemblyInfoInputs.cache
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.AssemblyInfo.cs
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.csproj.CoreCompileInputs.cache
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.dll
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\refint\TaxpayerProperty_kt.dll
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.pdb
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\TaxpayerProperty_kt.genruntimeconfig.cache
+C:\Users\timof\source\repos\TaxpayerProperty_kt\TaxpayerProperty_kt\obj\Debug\net8.0\ref\TaxpayerProperty_kt.dll
